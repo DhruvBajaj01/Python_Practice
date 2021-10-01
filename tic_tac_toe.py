@@ -30,7 +30,7 @@ def check():
       stop=True
     if states[0][0]==states[1][1]==states[2][2] !=0:
       b [0][0].config(bg='grey')
-      b [1][1].config(bg='grey')
+      b [1][1].config(bg='grey') 
       b [2][2].config(bg='grey')
       stop=True
     if states[2][0]==states[1][1]==states[0][2] !=0:
