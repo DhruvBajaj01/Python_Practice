@@ -5,7 +5,7 @@ import array
 
 # maximum length of password needed
 # this can be changed to suit your password length
-MAX_LEN = 12
+MAX_LEN = 10
 
 # declare arrays of the character that we need in out password
 # Represented as chars to enable easy string concatenation
