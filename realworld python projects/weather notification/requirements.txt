@@ -1,4 +1,4 @@
-﻿certifi==2021.5.30
+﻿certifi==2024.7.4
 charset-normalizer==2.0.4
 idna==3.2
 plyer==2.0.0
